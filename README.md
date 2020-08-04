@@ -4,7 +4,7 @@
 
 ## About me
 
-> 💻 Technical System Analyst at RBC</br>
+> 💻 Technical Systems Analyst at RBC</br>
 > 🎓 Master of Applied Computing from University of Windsor</br>
 > ✈️ Worked as a Software Developer for 1.5 years in Amdocs, India</br>
 > 📱 Developed 5+ Android applications, which include experience in publishing it on Google Play</br>
