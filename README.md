@@ -4,10 +4,11 @@
 
 ## About me
 
+> 🚗 Android Developer at General Motors</br>
 > 💻 Technical Systems Analyst at RBC</br>
 > 🎓 Master of Applied Computing from University of Windsor</br>
 > ✈️ Worked as a Software Developer for 1.5 years in Amdocs, India</br>
-> 📱 Developed 5+ Android applications, which include experience in publishing it on Google Play</br>
+> 📱  Developed 5+ Android applications, which include experience in publishing it on Google Play</br>
 > 🧠 Strong knowledge of OOP Languages with a good understanding of DSA</br>
 
 ## Technologies I have worked with
@@ -46,5 +47,4 @@
 
 <a href="http://sagarjogadia28.github.io/Portfolio"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=google-chrome"></a>
 <a href="https://linkedin.com/in/sagar-jogadia/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin"></a>
-<a href="mailto:jogadia@uwindsor.ca"><img alt="Email" src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail"></a>
 <a href="https://stackoverflow.com/users/6360144/sagar-jogadia"><img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-333333?style=flat-square&logo=stackoverflow"></a>
