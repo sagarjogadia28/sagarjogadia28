@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Sagar
 
-<img alt="GIF" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="400" height="300" />
-
 ## About me
 
 > 🚗 Android Developer at General Motors</br>
